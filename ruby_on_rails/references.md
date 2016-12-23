@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
+## List of articles & references
 
-List of articles & references about `Ruby on Rails`
-------------------------------------------------
-
-</body>
-</html>
+1. [Ruby on Rails Tutorial (Rails 5) - Learn Web Development with Rails](https://www.railstutorial.org/book/beginning)
