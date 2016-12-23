@@ -1,2 +1,0 @@
-List of articles & references about `Ruby on Rails`
-------------------------------------------------
